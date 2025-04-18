@@ -1,0 +1,4 @@
+DynamicRadio_PTBR = {
+	AEBS_KpH = " KpH",
+	AEBS_MpH = " MPH",
+}

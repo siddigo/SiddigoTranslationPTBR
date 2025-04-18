@@ -1,0 +1,17 @@
+Entity_PTBR = {
+	EC_Entity_DisplayName_Default = "Nome genérico da entidade",
+	EC_Entity_BuildDescription_Default = "Descrição genérica da compilação da entidade",
+	EC_Energy = "Energia",
+	EC_Energies = "Energias",
+	EC_Energy_Not_Set = "Sem conjunto de energia",
+	EC_Energy_Electric = "Elétrico",
+	EC_Energy_Mechanical = "Mecânico",
+	EC_Energy_Thermal = "Térmico",
+	EC_Energy_Steam = "Vapor",
+	EC_Locked = "Bloqueado",
+	EC_Stored = "Armazenado",
+	EC_Weight = "Ônus",
+	EC_Progress = "Progresso",
+	EC_Workstation = "Estação de trabalho",
+	EC_Recipes = "Receitas",
+}

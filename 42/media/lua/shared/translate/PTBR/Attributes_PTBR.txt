@@ -1,0 +1,14 @@
+Attributes_PTBR = {
+	Attributes_Type_None = "Nenhum",
+	Attributes_Type_Quality = "Qualidade",
+	Attributes_Type_Durability = "Durabilidade",
+	Attributes_Type_WoodWetness = "Umidade da madeira",
+	Attributes_Type_Uses = "Usos",
+	Attributes_Type_DurabilityOnUse = "Durabilidade em uso",
+	Attributes_Type_CraftedBy = "Feito por",
+	Attributes_Type_MetalType = "Tipo metálico",
+	Attributes_Type_WoodType = "Tipo de madeira",
+	Attributes_Type_ContainsWood = "Contém Madeira",
+	Attributes_Type_ContainsMetal = "Contém Metal",
+	Attributes_TooltipOverride_Durability = "Usos de durabilidade",
+}
