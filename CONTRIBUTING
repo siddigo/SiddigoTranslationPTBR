@@ -1,0 +1,33 @@
+# 🤝 Contribuindo com o Projeto de Tradução do Project Zomboid
+
+Obrigado por querer contribuir! Este projeto é colaborativo e sua ajuda é fundamental para torná-lo cada vez melhor.
+
+---
+
+## 📌 Regras Gerais
+
+- Mantenha as traduções o mais **fiéis ao texto original** possível.
+- Evite traduções literais que não façam sentido no contexto do jogo.
+- Respeite o **uso correto de pontuação, ortografia e gramática**.
+- Antes de começar a traduzir um arquivo, **verifique se ele já não está em andamento ou finalizado**.
+- Utilize as pastas corretamente.
+- Se for sugerir alterações em traduções já feitas, explique o **motivo da mudança** no seu pull request.
+
+---
+
+## 🛠 Como Contribuir
+
+1. Faça um fork do repositório.
+2. Crie uma nova branch: `git checkout -b minha-contribuicao`.
+3. Faça suas alterações.
+4. Envie um pull request com uma descrição clara do que foi alterado ou adicionado.
+
+---
+
+## 🔁 Revisões e Feedback
+
+- Pull requests serão revisados manualmente.
+- Pode ser que você receba sugestões de melhoria antes da aprovação.
+- Discussões e sugestões são bem-vindas na aba "Issues".
+
+---
